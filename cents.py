@@ -13,10 +13,16 @@ child3 = {
   "year" : 2011
 }
 
-myfamily = {
+myfamily1 = {
   "child1" : child1,
   "child2" : child2,
   "child3" : child3
+my family2 = {
+  "child1" : child1,
+  "child2" : child2,
+  "child3" : child3,
+  
 }
 
-print(myfamily)
+print(myfamily1)
+print(myfamily2)
